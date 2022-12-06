@@ -13,3 +13,4 @@ __pycache__/
 
 # model artifacts
 model/*
+!model/.gitkeep
