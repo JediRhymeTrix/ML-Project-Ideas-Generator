@@ -1,0 +1,12 @@
+# editor junk
+.vscode/
+
+# python junk
+*.pyc
+__pycache__/
+
+# jupyter notebook junk
+.ipynb_checkpoints/
+
+# model artifacts
+model/model/
